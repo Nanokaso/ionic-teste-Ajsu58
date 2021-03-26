@@ -1,0 +1,8 @@
+{
+  "name": "AppTabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "8c5dc75a"
+}
